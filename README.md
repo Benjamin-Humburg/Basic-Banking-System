@@ -1,2 +1,2 @@
 # Basic-Banking-System
-Base banking system with SQLite database management
+A working template of a banking system with SQL database management.
