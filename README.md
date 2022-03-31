@@ -1,2 +1,2 @@
 # Basic-Banking-System
-A working template of a banking system with SQL database management.
+A proof of concept banking system with SQL database management.
